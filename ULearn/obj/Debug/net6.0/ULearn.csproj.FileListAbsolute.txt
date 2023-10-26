@@ -1,0 +1,14 @@
+C:\Users\Ilyushka\source\repos\ULearn\ULearn\bin\Debug\net6.0\ULearn.exe
+C:\Users\Ilyushka\source\repos\ULearn\ULearn\bin\Debug\net6.0\ULearn.deps.json
+C:\Users\Ilyushka\source\repos\ULearn\ULearn\bin\Debug\net6.0\ULearn.runtimeconfig.json
+C:\Users\Ilyushka\source\repos\ULearn\ULearn\bin\Debug\net6.0\ULearn.dll
+C:\Users\Ilyushka\source\repos\ULearn\ULearn\bin\Debug\net6.0\ULearn.pdb
+C:\Users\Ilyushka\source\repos\ULearn\ULearn\obj\Debug\net6.0\ULearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilyushka\source\repos\ULearn\ULearn\obj\Debug\net6.0\ULearn.AssemblyInfoInputs.cache
+C:\Users\Ilyushka\source\repos\ULearn\ULearn\obj\Debug\net6.0\ULearn.AssemblyInfo.cs
+C:\Users\Ilyushka\source\repos\ULearn\ULearn\obj\Debug\net6.0\ULearn.csproj.CoreCompileInputs.cache
+C:\Users\Ilyushka\source\repos\ULearn\ULearn\obj\Debug\net6.0\ULearn.dll
+C:\Users\Ilyushka\source\repos\ULearn\ULearn\obj\Debug\net6.0\refint\ULearn.dll
+C:\Users\Ilyushka\source\repos\ULearn\ULearn\obj\Debug\net6.0\ULearn.pdb
+C:\Users\Ilyushka\source\repos\ULearn\ULearn\obj\Debug\net6.0\ULearn.genruntimeconfig.cache
+C:\Users\Ilyushka\source\repos\ULearn\ULearn\obj\Debug\net6.0\ref\ULearn.dll
